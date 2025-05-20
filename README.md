@@ -43,7 +43,8 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
-![OUTPUT1(1)](https://github.com/user-attachments/assets/edd71622-33d3-4ab8-8098-586c632e99f4)
+![Screenshot 2025-05-20 175108](https://github.com/user-attachments/assets/cce3f991-e343-4ce9-a8ce-9b18c7048296)
+
 ![output2](https://github.com/user-attachments/assets/20e3266d-ebcc-45fc-9f29-a2b2ec20d68e)
 
 ## Result
